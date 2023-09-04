@@ -1,0 +1,12 @@
+{
+   "username":"standard_user",
+    "Password":"secret_sauce",
+    "URL" : "https://www.saucedemo.com/",
+    "Fname" : "Ayesha Alloudin",
+    "Lname" : "Ch Alloudin",
+    "Zcode" : "38000",
+    "removetxt" : "Remove",
+    "carttxt" : "Your Cart",
+    "checkouttxt" : "Checkout: Your Information",
+    "thankstxt" : "Thank you for your order!"
+}
